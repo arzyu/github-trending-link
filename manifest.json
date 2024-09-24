@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "GitHub Trending Link",
+  "version": "1.0",
+  "description": "Adds a link to GitHub Trending in the GitHub navigation bar",
+  "permissions": [
+    "https://github.com/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["https://github.com/*"],
+      "js": ["content.js"]
+    }
+  ],
+  "icons": {
+    "48": "icon.svg",
+    "96": "icon.svg"
+  }
+}

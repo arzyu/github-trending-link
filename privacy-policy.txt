@@ -1,0 +1,21 @@
+### Privacy Policy
+
+**Data Collection:**
+This extension does not collect any personal data from users. Its functionality is limited to adding a link button to the navigation bar on GitHub that directs users to the Trending page (popular repositories).
+
+**Use of Data:**
+All data is processed locally in the user's browser and is not sent to any external servers or third parties. The extension simply modifies the display content of the page without collecting or storing any data.
+
+**Data Sharing:**
+This extension does not share any data with third parties as it does not collect or store user data.
+
+**User Rights:**
+Users have full control over any data that may be processed during the use of this extension. The extension does not retain any data, so users need not worry about data privacy issues.
+
+**Security:**
+Since this extension does not collect or handle sensitive data, there is no risk of data leakage. The operations of the extension rely entirely on the local browser environment and do not involve any external server interactions.
+
+**Updates:**
+If future versions involve changes to data processing, this privacy policy will be updated accordingly. The latest privacy policy will be published in a timely manner to reflect changes in functionality and data handling.
+
+For any questions regarding this privacy policy, please contact me.
